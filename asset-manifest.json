@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b87734d6.chunk.css",
+    "main.js": "/static/js/main.25f7f54e.chunk.js",
+    "main.js.map": "/static/js/main.25f7f54e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.42506d08.js",
+    "runtime-main.js.map": "/static/js/runtime-main.42506d08.js.map",
+    "static/js/2.2ea2f7b5.chunk.js": "/static/js/2.2ea2f7b5.chunk.js",
+    "static/js/2.2ea2f7b5.chunk.js.map": "/static/js/2.2ea2f7b5.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a732a174bbd23042943f1188c08af334.js": "/precache-manifest.a732a174bbd23042943f1188c08af334.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.b87734d6.chunk.css.map": "/static/css/main.b87734d6.chunk.css.map",
+    "static/js/2.2ea2f7b5.chunk.js.LICENSE.txt": "/static/js/2.2ea2f7b5.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/buld.jpg": "/static/media/buld.a1051a22.jpg",
+    "static/media/cwoc.png": "/static/media/cwoc.404ae7bc.png",
+    "static/media/all.css": "/static/media/fa-solid-900.c2801fb4.svg",
+    "static/media/flutter.png": "/static/media/flutter.54f67219.png",
+    "static/media/gdg.png": "/static/media/gdg.6364dbb3.png",
+    "static/media/github.png": "/static/media/github.0ba2aa20.png",
+    "static/media/googleAssistant.jpg": "/static/media/googleAssistant.0c8a4c11.jpg",
+    "static/media/iit.png": "/static/media/iit.36d7942a.png",
+    "static/media/ino.png": "/static/media/ino.ccf88661.png",
+    "static/media/istqb.png": "/static/media/istqb.f7b11776.png",
+    "static/media/localguide.gif": "/static/media/localguide.847873a8.gif",
+    "static/media/localguide.png": "/static/media/localguide.b7f903d7.png",
+    "static/media/mirza.jpg": "/static/media/mirza.e662bced.jpg",
+    "static/media/mongo.png": "/static/media/mongo.d324ee17.png",
+    "static/media/postman.jpg": "/static/media/postman.22f11067.jpg",
+    "static/media/postman.png": "/static/media/postman.c108f557.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42506d08.js",
+    "static/js/2.2ea2f7b5.chunk.js",
+    "static/css/main.b87734d6.chunk.css",
+    "static/js/main.25f7f54e.chunk.js"
+  ]
+}
