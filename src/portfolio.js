@@ -24,6 +24,7 @@ const socialMediaLinks = {
   linkedin: "https://www.linkedin.com/in/mirza-kurtovic-612b3b181/",
   gmail: "mirzakurtovic0@gmail.com",
   gitlab: "https://gitlab.com/mirzakurtovic1",
+  upwork: "https://www.upwork.com/freelancers/~01dda56773c8302d9e",
   twitter: "#",
   instagram: "#",
 };
@@ -156,7 +157,7 @@ const skills = {
           style: {
             color: "#1488C6",
           },
-        }
+        },
       ],
     },
   ],
@@ -222,7 +223,6 @@ const certifications = {
       alt_name: "MongoDB University",
       color_code: "#47A048",
     },
-
   ],
 };
 
@@ -256,112 +256,112 @@ const projects = {
       id: "0",
       name: "Secure privacy",
       url: "https://secureprivacy.ai/",
-      description:"Secure Privacy automates cookie consent, visitor preferences, privacy policy & cookie declaration management across international data privacy laws. It saves you time and money and assists you to comply with data privacy laws.",
-      languages: [
-      ],
+      description:
+        "Secure Privacy automates cookie consent, visitor preferences, privacy policy & cookie declaration management across international data privacy laws. It saves you time and money and assists you to comply with data privacy laws.",
+      languages: [],
       links: [
         {
           name: "Website",
           url: "https://secureprivacy.ai/",
-        }
+        },
       ],
     },
     {
       id: "1",
       name: "Della",
       url: "https://www.wolterskluwer.com/",
-      description:"Della AI provides a contract analysis platform for legal professionals. Helping business and legal professional torn between proper legal review and the need for speed, to easily identify and locate the point that matters and the red flag in their contracts.",
-      languages: [
-      ],
+      description:
+        "Della AI provides a contract analysis platform for legal professionals. Helping business and legal professional torn between proper legal review and the need for speed, to easily identify and locate the point that matters and the red flag in their contracts.",
+      languages: [],
       links: [
         {
           name: "Website",
           url: "https://www.wolterskluwer.com/",
-        }
+        },
       ],
     },
     {
       id: "2",
       name: "Relay",
       url: "https://relayfi.com",
-      description:"Relay is a no-fee, online business banking and money management platform designed to help small businesses take control of their cash flow.",
-      languages: [
-      ],
+      description:
+        "Relay is a no-fee, online business banking and money management platform designed to help small businesses take control of their cash flow.",
+      languages: [],
       links: [
         {
           name: "Website",
           url: "https://relayfi.com",
-        }
+        },
       ],
     },
     {
       id: "3",
       name: "Parserr",
       url: "https://parserr.com/",
-      description:"Parser is a software that allows you to extract data from incoming emails. Email parsers can be configured to pull specific data fields from incoming emails.",
-      languages: [
-      ],
+      description:
+        "Parser is a software that allows you to extract data from incoming emails. Email parsers can be configured to pull specific data fields from incoming emails.",
+      languages: [],
       links: [
         {
           name: "Website",
           url: "https://relayfi.com",
-        }
+        },
       ],
     },
     {
       id: "4",
       name: "eComply",
       url: "https://ecomplysolutions.com/",
-      description:"Cloud-based agency-focused labor compliance and diversity management solution for custom reporting and workflow automation on a single platform",
-      languages: [
-      ],
+      description:
+        "Cloud-based agency-focused labor compliance and diversity management solution for custom reporting and workflow automation on a single platform",
+      languages: [],
       links: [
         {
           name: "Website",
           url: "https://ecomplysolutions.com/",
-        }
+        },
       ],
     },
     {
       id: "5",
       name: "Elunic",
       url: "elunic.com",
-      description:"shopfloor.io connects and visualizes your machinery, products and employees; either as the foundation of a scalable and secure Industry 4.0 system architecture or by connecting to your existing infrastructure. ",
-      languages: [
-      ],
+      description:
+        "shopfloor.io connects and visualizes your machinery, products and employees; either as the foundation of a scalable and secure Industry 4.0 system architecture or by connecting to your existing infrastructure. ",
+      languages: [],
       links: [
         {
           name: "Website",
           url: "elunic.com",
-        }
+        },
       ],
     },
     {
       id: "6",
       name: "Collaboard",
       url: "https://www.collaboard.app/",
-      description:"Collaboard is a solution developed by the Swiss software company IBV, which is over 42 years old. Behind Collaboard is a European team for which data security, data sovereignty and independence are important core values.",
-      languages: [
-      ],
+      description:
+        "Collaboard is a solution developed by the Swiss software company IBV, which is over 42 years old. Behind Collaboard is a European team for which data security, data sovereignty and independence are important core values.",
+      languages: [],
       links: [
         {
           name: "Website",
           url: "https://www.collaboard.app/",
-        }
+        },
       ],
     },
     {
       id: "7",
       name: "Monk",
       url: "https://monk.io/",
-      description:"Monk is an autonomous AI DevOps agent that runs your app in the cloud. Monk is a smart teammate that architects, builds and optimizes your running app. ",
-      languages: [
-      ],
+      description:
+        "Monk is an autonomous AI DevOps agent that runs your app in the cloud. Monk is a smart teammate that architects, builds and optimizes your running app. ",
+      languages: [],
       links: [
         {
           name: "Website",
           url: "https://monk.io/",
-        }
+        },
       ],
     },
   ],
